@@ -1,9 +1,0 @@
-name: hello_dart
-description: A sample Dart project
-version: 1.0.0
-
-environment:
-  sdk: '^3.7.0'  # ✅ Dart SDK 最低要求
-
-dev_dependencies:
-  test: ^1.24.0  # Dart 官方测试库
